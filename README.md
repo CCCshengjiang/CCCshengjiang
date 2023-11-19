@@ -17,7 +17,7 @@
 </em></p>
 <p><em>2.<a href="https://gitee.com/CCCshengjiang" target="_blank">Gitee</a></em></p>
 
-<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTk0YjZtd2hrOGEydjdjN3FsY3pld3JwYml1MW92OTNtbGRic2pyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="45%">
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazlqMWp0MWFxODZienQwc3lwdDdpdzZqNjI3bDdvZ2xsaWl5MGxyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif" width="360">
 
 <p><em>3.<a href="https://cccshengjiang.github.io/wen.github.io/" target="_blank">个人网站</a></em></p>
 <p><em>4.The programming language I use：</em></p>
