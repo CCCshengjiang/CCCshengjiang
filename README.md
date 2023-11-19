@@ -4,7 +4,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGg4cmJ1MjQ2OHJ3MG9zZTIyMnE1bjU5c3p1ZTlzNzFhZTQ5bW9pNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CCCshengjiang&show_icons=true&theme=cobalt&count_private=true)
@@ -17,7 +17,7 @@
 </em></p>
 <p><em>2.<a href="https://gitee.com/CCCshengjiang" target="_blank">Gitee</a></em></p>
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTk0YjZtd2hrOGEydjdjN3FsY3pld3JwYml1MW92OTNtbGRic2pyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="45%">
 
 <p><em>3.<a href="https://cccshengjiang.github.io/wen.github.io/" target="_blank">个人网站</a></em></p>
 <p><em>4.The programming language I use：</em></p>
@@ -25,7 +25,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CCCshengjiang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-<img src="https://github.com/WangRongsheng/WangRongsheng/blob/master/resources/banner.png" alt="Hello world">
-
-
