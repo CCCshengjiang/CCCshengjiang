@@ -7,7 +7,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGg4cmJ1MjQ2OHJ3MG9zZTIyMnE1bjU5c3p1ZTlzNzFhZTQ5bW9pNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CCCshengjiang&show_icons=true&theme=cobalt&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CCCshengjiang&show_icons=true&theme=tokyonight&count_private=true)
 
 ---
 
