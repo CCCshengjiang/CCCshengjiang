@@ -3,7 +3,7 @@
 - 🐧 211双一流大学计算机专业，熟悉Java开发、数据结构与算法 <a href="https://www.cwblue.cn" target="_blank">我的开发网站</a>
 - 👨‍💻 CSDN：<a href="https://blog.csdn.net/weixin_54620350" target="_blank">一位四千多粉丝的博主</a>
 - 🏡 代码托管平台：<a href="https://github.com/CCCshengjiang" target="_blank">Github</a> | <a href="https://gitee.com/CCCshengjiang" target="_blank">Gitee</a>
-- 🌱 干货：<a href="" target="_blank">公众号『 不爱生姜不吃醋 』</a>
+- 🌱 干货：<a href="https://github.com/CCCshengjiang/CCCshengjiang/wechat-official.png" target="_blank">公众号『 不爱生姜不吃醋 』</a>
 - 😺 其它：<a href="https://www.cwblue.top" target="_blank">个人博客网站</a>
 
 
