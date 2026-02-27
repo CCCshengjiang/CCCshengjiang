@@ -6,7 +6,7 @@
 <br/>
 
 <!-- 📬 联系我：移至顶部，作为第一张名片 -->
-### 📬 连接与交流 (Connect)
+### 📬 联系与交流 (Connect)
 
 [![CSDN](https://img.shields.io/badge/CSDN-五千粉丝博主-B81D24?style=for-the-badge&logo=csdn&logoColor=white)](https://blog.csdn.net/weixin_54620350)
 [![WeChat](https://img.shields.io/badge/公众号-不爱生姜不吃醋-07C160?style=for-the-badge&logo=wechat&logoColor=white)](#)
@@ -78,21 +78,6 @@
   <img src="https://img.shields.io/badge/LLM-Chat_Integration-8A2BE2?style=for-the-badge&logo=openai&logoColor=white&labelColor=222222" alt="LLM" />
   <img src="https://img.shields.io/badge/Claude_Code-Power_Tool-DCB67A?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=222222" alt="Claude Code" />
 </div>
-
-</div>
-
-<br/>
-
-<hr style="border: 0; height: 2px; background: linear-gradient(to right, #58A6FF, #8A2BE2); border-radius: 2px;" />
-
-<br/>
-
-### 🐍 贡献贪吃蛇 (Contribution Snake)
-
-<div align="center">
-
-<!-- 等待 Actions 运行完成后显示，已配置为橙色 -->
-<img src="https://raw.githubusercontent.com/CCCshengjiang/CCCshengjiang/output/github-contribution-grid-snake.svg" alt="snake animation" style="max-width: 100%; border-radius: 8px;" />
 
 </div>
 
