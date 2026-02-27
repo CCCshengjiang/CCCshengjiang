@@ -75,41 +75,9 @@
 <!-- AI 专项徽章组：增加明确的背景色参数，防止变黑 -->
 <div align="center">
   <img src="https://img.shields.io/badge/Spring_AI-Core_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=222222" alt="Spring AI" />
-  <img src="https://img.shields.io/badge/RAG-Knowledge_Base-FF7F50?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=222222" alt="RAG" />
   <img src="https://img.shields.io/badge/LLM-Chat_Integration-8A2BE2?style=for-the-badge&logo=openai&logoColor=white&labelColor=222222" alt="LLM" />
   <img src="https://img.shields.io/badge/Claude_Code-Power_Tool-DCB67A?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=222222" alt="Claude Code" />
 </div>
-
-</div>
-
-<br/>
-
-<hr style="border: 0; height: 2px; background: linear-gradient(to right, #58A6FF, #8A2BE2); border-radius: 2px;" />
-
-<br/>
-
-### 📊 代码统计 (Activity Stats)
-
-<div align="center">
-
-<!-- 说明：如果图片显示 403 或裂开，请等待 5-10 分钟，这是 GitHub API 限流，会自动恢复 -->
-<!-- 调整了布局，将 Streak 和 Top Langs 放在一行，Total Stats 放在下方 -->
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com?user=CCCshengjiang&theme=dark&hide_border=true&background=00000000&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&sideNums=58A6FF&dates=58A6FF" alt="streak graph" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CCCshengjiang&hide_title=true&hide_border=true&layout=compact&bg_color=00000000&text_color=c9d1d9&theme=dark&langs_count=6&cache_seconds=1800" alt="languages graph" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- 个人总览卡片 -->
-<img src="https://github-readme-stats.vercel.app/api?username=CCCshengjiang&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&cache_seconds=1800&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" style="max-width: 100%;" />
 
 </div>
 
@@ -131,25 +99,5 @@
 <br/>
 
 <hr style="border: 0; height: 2px; background: linear-gradient(to right, #58A6FF, #8A2BE2); border-radius: 2px;" />
-
-<br/>
-
-### 📊 编码足迹与洞察 (Coding Insights)
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/CCCshengjiang/CCCshengjiang/profile-summary-cards-output/cards/profile-details.svg" alt="profile details" style="max-width: 100%; border-radius: 6px;" />
-
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-top: 15px;">
-  <img src="https://raw.githubusercontent.com/CCCshengjiang/CCCshengjiang/profile-summary-cards-output/cards/repos-per-language.svg" alt="repos per language" style="max-width: 48%; border-radius: 6px;" />
-  <img src="https://raw.githubusercontent.com/CCCshengjiang/CCCshengjiang/profile-summary-cards-output/cards/commit-over-time.svg" alt="commit over time" style="max-width: 48%; border-radius: 6px;" />
-</div>
-
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-top: 15px;">
-  <img src="https://raw.githubusercontent.com/CCCshengjiang/CCCshengjiang/profile-summary-cards-output/cards/most-commit-language.svg" alt="most commit language" style="max-width: 48%; border-radius: 6px;" />
-  <img src="https://raw.githubusercontent.com/CCCshengjiang/CCCshengjiang/profile-summary-cards-output/cards/stats.svg" alt="stats" style="max-width: 48%; border-radius: 6px;" />
-</div>
-
-</div>
 
 <br/>
